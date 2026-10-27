@@ -61,7 +61,7 @@ peopleloop-rag-assistant/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/100kuta/People-Loop-RAG-Assistant
 cd peopleloop-rag-assistant
 ```
 
